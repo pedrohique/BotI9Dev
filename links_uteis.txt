@@ -1,0 +1,5 @@
+https://github.com/eternnoir/pyTelegramBotAPI#getting-started --- git api
+
+https://leandrocruvinel.medium.com/meu-primeiro-chatbot-para-telegram-com-python-53a86d4b744e -- artigo medium
+
+
